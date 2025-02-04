@@ -1,0 +1,1024 @@
+roblem size: p x n: 4096 58605
+*********************
+Processes Lambda 0.000273011
+Eps 0.0001
+Solver has finished after 586050 iterations, primal: 0.119847, dual: 0.119845, gap: 1.27405e-06
+Solver has finished after 586050 iterations, primal: 0.201398, dual: 0.201394, gap: 3.76999e-06
+Solver has finished after 586050 iterations, primal: 0.140988, dual: 0.140987, gap: 1.2219e-06
+Solver has finished after 586050 iterations, primal: 0.12678, dual: 0.126777, gap: 2.6077e-06
+Solver has finished after 586050 iterations, primal: 0.170306, dual: 0.170304, gap: 1.87755e-06
+Solver has finished after 586050 iterations, primal: 0.259185, dual: 0.259144, gap: 4.07696e-05
+Solver has finished after 586050 iterations, primal: 0.130313, dual: 0.130308, gap: 5.1558e-06
+Solver has finished after 586050 iterations, primal: 0.117624, dual: 0.117621, gap: 2.71201e-06
+Solver has finished after 586050 iterations, primal: 0.164137, dual: 0.164136, gap: 1.54972e-06
+Solver has finished after 586050 iterations, primal: 0.233113, dual: 0.233089, gap: 2.3663e-05
+primal: 0.166369
+loss: 0.16134
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 0.000273011
+Eps 0.0001
+Solver has finished after 586050 iterations, primal: 0.201349, dual: 0.201348, gap: 1.71363e-06
+Solver has finished after 586050 iterations, primal: 0.119985, dual: 0.119954, gap: 3.13297e-05
+Solver has finished after 586050 iterations, primal: 0.12682, dual: 0.126817, gap: 2.74181e-06
+Solver has finished after 586050 iterations, primal: 0.140938, dual: 0.140935, gap: 2.99513e-06
+Solver has finished after 586050 iterations, primal: 0.170582, dual: 0.170578, gap: 4.06802e-06
+Solver has finished after 586050 iterations, primal: 0.25919, dual: 0.259152, gap: 3.76999e-05
+Solver has finished after 586050 iterations, primal: 0.129998, dual: 0.129996, gap: 1.77324e-06
+Solver has finished after 586050 iterations, primal: 0.117572, dual: 0.11757, gap: 2.00421e-06
+Solver has finished after 586050 iterations, primal: 0.164287, dual: 0.164284, gap: 3.35276e-06
+Solver has finished after 586050 iterations, primal: 0.233252, dual: 0.233248, gap: 3.62098e-06
+primal: 0.166397
+loss: 0.161374
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 0.000273011
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.120194, dual: 0.120193, gap: 1.60187e-06
+Solver has finished after 586060 iterations, primal: 0.12683, dual: 0.126828, gap: 1.53482e-06
+Solver has finished after 586060 iterations, primal: 0.140943, dual: 0.14094, gap: 3.71039e-06
+Solver has finished after 586060 iterations, primal: 0.201405, dual: 0.2014, gap: 4.93228e-06
+Solver has finished after 586060 iterations, primal: 0.259046, dual: 0.259041, gap: 4.76837e-06
+Solver has finished after 586060 iterations, primal: 0.130196, dual: 0.130194, gap: 1.96695e-06
+Solver has finished after 586060 iterations, primal: 0.170589, dual: 0.170564, gap: 2.46018e-05
+Solver has finished after 586060 iterations, primal: 0.117572, dual: 0.11757, gap: 1.67638e-06
+Solver has finished after 586060 iterations, primal: 0.233169, dual: 0.233165, gap: 3.8147e-06
+Solver has finished after 586060 iterations, primal: 0.164489, dual: 0.164486, gap: 3.12924e-06
+primal: 0.166443
+loss: 0.161457
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 0.000273011
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.119973, dual: 0.119973, gap: -1.63913e-07
+Solver has finished after 586060 iterations, primal: 0.201469, dual: 0.201436, gap: 3.31253e-05
+Solver has finished after 586060 iterations, primal: 0.14116, dual: 0.141158, gap: 2.45869e-06
+Solver has finished after 586060 iterations, primal: 0.126854, dual: 0.12685, gap: 4.15742e-06
+Solver has finished after 586060 iterations, primal: 0.258537, dual: 0.258533, gap: 4.44055e-06
+Solver has finished after 586060 iterations, primal: 0.129887, dual: 0.12983, gap: 5.67883e-05
+Solver has finished after 586060 iterations, primal: 0.17036, dual: 0.170357, gap: 3.01003e-06
+Solver has finished after 586060 iterations, primal: 0.11752, dual: 0.117517, gap: 2.07126e-06
+Solver has finished after 586060 iterations, primal: 0.233436, dual: 0.23343, gap: 5.67734e-06
+Solver has finished after 586060 iterations, primal: 0.16406, dual: 0.164027, gap: 3.24845e-05
+primal: 0.166326
+loss: 0.161323
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 0.000273011
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.201142, dual: 0.201139, gap: 3.15905e-06
+Solver has finished after 586060 iterations, primal: 0.120081, dual: 0.120079, gap: 1.9148e-06
+Solver has finished after 586060 iterations, primal: 0.140833, dual: 0.14083, gap: 3.17395e-06
+Solver has finished after 586060 iterations, primal: 0.126835, dual: 0.126833, gap: 1.47521e-06
+Solver has finished after 586060 iterations, primal: 0.17035, dual: 0.170329, gap: 2.11447e-05
+Solver has finished after 586060 iterations, primal: 0.259074, dual: 0.259067, gap: 7.36117e-06
+Solver has finished after 586060 iterations, primal: 0.129894, dual: 0.12989, gap: 4.21703e-06
+Solver has finished after 586060 iterations, primal: 0.117606, dual: 0.117605, gap: 9.98378e-07
+Solver has finished after 586060 iterations, primal: 0.164261, dual: 0.16426, gap: 1.02818e-06
+Solver has finished after 586060 iterations, primal: 0.233153, dual: 0.233097, gap: 5.5626e-05
+primal: 0.166323
+loss: 0.161287
+val score=0.31962813733000073
+lambda=0.0001365057264152231
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 0.000136506
+Eps 0.0001
+Solver has finished after 586050 iterations, primal: 0.125678, dual: 0.125671, gap: 6.80983e-06
+Solver has finished after 586050 iterations, primal: 0.139529, dual: 0.139522, gap: 6.27339e-06
+Solver has finished after 586050 iterations, primal: 0.117925, dual: 0.117921, gap: 4.57466e-06
+Solver has finished after 586050 iterations, primal: 0.199507, dual: 0.1995, gap: 7.06315e-06
+Solver has finished after 586050 iterations, primal: 0.126955, dual: 0.126946, gap: 9.50694e-06
+Solver has finished after 586050 iterations, primal: 0.116352, dual: 0.116316, gap: 3.62098e-05
+Solver has finished after 586050 iterations, primal: 0.247973, dual: 0.247961, gap: 1.1906e-05
+Solver has finished after 586050 iterations, primal: 0.165026, dual: 0.16502, gap: 5.69224e-06
+Solver has finished after 586050 iterations, primal: 0.227845, dual: 0.227813, gap: 3.13669e-05
+Solver has finished after 586050 iterations, primal: 0.16141, dual: 0.161402, gap: 7.49528e-06
+primal: 0.16282
+loss: 0.157608
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 0.000136506
+Eps 0.0001
+Solver has finished after 586050 iterations, primal: 0.139497, dual: 0.139493, gap: 4.06802e-06
+Solver has finished after 586050 iterations, primal: 0.118116, dual: 0.118112, gap: 3.62843e-06
+Solver has finished after 586050 iterations, primal: 0.125691, dual: 0.125686, gap: 4.91738e-06
+Solver has finished after 586050 iterations, primal: 0.199431, dual: 0.199419, gap: 1.13994e-05
+Solver has finished after 586050 iterations, primal: 0.126658, dual: 0.126645, gap: 1.23382e-05
+Solver has finished after 586050 iterations, primal: 0.247954, dual: 0.247919, gap: 3.46601e-05
+Solver has finished after 586050 iterations, primal: 0.1163, dual: 0.116295, gap: 4.99934e-06
+Solver has finished after 586050 iterations, primal: 0.165382, dual: 0.165375, gap: 6.70552e-06
+Solver has finished after 586050 iterations, primal: 0.227956, dual: 0.227947, gap: 8.73208e-06
+Solver has finished after 586050 iterations, primal: 0.161572, dual: 0.161565, gap: 7.12276e-06
+primal: 0.162856
+loss: 0.15766
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 0.000136506
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.125715, dual: 0.12571, gap: 5.1111e-06
+Solver has finished after 586060 iterations, primal: 0.139489, dual: 0.139455, gap: 3.35574e-05
+Solver has finished after 586060 iterations, primal: 0.118376, dual: 0.118372, gap: 4.07547e-06
+Solver has finished after 586060 iterations, primal: 0.199544, dual: 0.19951, gap: 3.39001e-05
+Solver has finished after 586060 iterations, primal: 0.165446, dual: 0.165441, gap: 4.70877e-06
+Solver has finished after 586060 iterations, primal: 0.126836, dual: 0.126804, gap: 3.19481e-05
+Solver has finished after 586060 iterations, primal: 0.247884, dual: 0.247877, gap: 7.25687e-06
+Solver has finished after 586060 iterations, primal: 0.116269, dual: 0.116264, gap: 4.17978e-06
+Solver has finished after 586060 iterations, primal: 0.161822, dual: 0.161814, gap: 7.88271e-06
+Solver has finished after 586060 iterations, primal: 0.227882, dual: 0.227869, gap: 1.25915e-05
+primal: 0.162926
+loss: 0.157765
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 0.000136506
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.125771, dual: 0.125767, gap: 3.56138e-06
+Solver has finished after 586060 iterations, primal: 0.118083, dual: 0.118062, gap: 2.02134e-05
+Solver has finished after 586060 iterations, primal: 0.199583, dual: 0.199571, gap: 1.1757e-05
+Solver has finished after 586060 iterations, primal: 0.139734, dual: 0.139727, gap: 6.18398e-06
+Solver has finished after 586060 iterations, primal: 0.11623, dual: 0.11622, gap: 9.73046e-06
+Solver has finished after 586060 iterations, primal: 0.16515, dual: 0.165141, gap: 8.68738e-06
+Solver has finished after 586060 iterations, primal: 0.247367, dual: 0.247346, gap: 2.18302e-05
+Solver has finished after 586060 iterations, primal: 0.1265, dual: 0.126493, gap: 7.55489e-06
+^ASolver has finished after 586060 iterations, primal: 0.161309, dual: 0.161302, gap: 7.62939e-06
+Solver has finished after 586060 iterations, primal: 0.228278, dual: 0.228247, gap: 3.13669e-05
+primal: 0.162801
+loss: 0.15763
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 0.000136506
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.118223, dual: 0.118219, gap: 4.68642e-06
+Solver has finished after 586060 iterations, primal: 0.199184, dual: 0.199176, gap: 8.44896e-06
+Solver has finished after 586060 iterations, primal: 0.125745, dual: 0.125742, gap: 3.78489e-06
+Solver has finished after 586060 iterations, primal: 0.139394, dual: 0.139388, gap: 5.93066e-06
+Solver has finished after 586060 iterations, primal: 0.247851, dual: 0.247832, gap: 1.89096e-05
+Solver has finished after 586060 iterations, primal: 0.165134, dual: 0.165126, gap: 8.22544e-06
+Solver has finished after 586060 iterations, primal: 0.126496, dual: 0.126491, gap: 5.06639e-06
+Solver has finished after 586060 iterations, primal: 0.116349, dual: 0.116343, gap: 5.93811e-06
+Solver has finished after 586060 iterations, primal: 0.227786, dual: 0.227777, gap: 9.83477e-06
+Solver has finished after 586060 iterations, primal: 0.161551, dual: 0.16154, gap: 1.04606e-05
+primal: 0.162771
+loss: 0.157565
+val score=0.34518202499568956
+lambda=6.825286320761155e-05
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 6.82529e-05
+Eps 0.0001
+Solver has finished after 586050 iterations, primal: 0.115927, dual: 0.115912, gap: 1.49757e-05
+Solver has finished after 586050 iterations, primal: 0.124625, dual: 0.124608, gap: 1.67191e-05
+Solver has finished after 586050 iterations, primal: 0.138098, dual: 0.13808, gap: 1.84774e-05
+Solver has finished after 586050 iterations, primal: 0.197536, dual: 0.197503, gap: 3.3468e-05
+Solver has finished after 586050 iterations, primal: 0.237167, dual: 0.237127, gap: 3.91752e-05
+Solver has finished after 586050 iterations, primal: 0.11506, dual: 0.115046, gap: 1.3642e-05
+Solver has finished after 586050 iterations, primal: 0.159056, dual: 0.159037, gap: 1.81943e-05
+Solver has finished after 586050 iterations, primal: 0.123337, dual: 0.123291, gap: 4.54113e-05
+Solver has finished after 586050 iterations, primal: 0.222141, dual: 0.222085, gap: 5.63413e-05
+Solver has finished after 586050 iterations, primal: 0.158614, dual: 0.158596, gap: 1.76281e-05
+primal: 0.159156
+loss: 0.153804
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 6.82529e-05
+Eps 0.0001
+Solver has finished after 586050 iterations, primal: 0.138094, dual: 0.138076, gap: 1.83731e-05
+Solver has finished after 586050 iterations, primal: 0.197437, dual: 0.197408, gap: 2.93702e-05
+Solver has finished after 586050 iterations, primal: 0.11617, dual: 0.11615, gap: 2.05785e-05
+Solver has finished after 586050 iterations, primal: 0.124609, dual: 0.12457, gap: 3.88324e-05
+Solver has finished after 586050 iterations, primal: 0.123079, dual: 0.123057, gap: 2.19941e-05
+Solver has finished after 586050 iterations, primal: 0.15951, dual: 0.15948, gap: 2.98321e-05
+Solver has finished after 586050 iterations, primal: 0.237166, dual: 0.237111, gap: 5.57452e-05
+Solver has finished after 586050 iterations, primal: 0.115011, dual: 0.114991, gap: 1.9446e-05
+Solver has finished after 586050 iterations, primal: 0.158788, dual: 0.158766, gap: 2.1711e-05
+Solver has finished after 586050 iterations, primal: 0.222212, dual: 0.222179, gap: 3.35127e-05
+primal: 0.159208
+loss: 0.15388
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 6.82529e-05
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.116486, dual: 0.116473, gap: 1.28597e-05
+Solver has finished after 586060 iterations, primal: 0.138065, dual: 0.138044, gap: 2.11746e-05
+Solver has finished after 586060 iterations, primal: 0.197608, dual: 0.197552, gap: 5.55962e-05
+Solver has finished after 586060 iterations, primal: 0.124649, dual: 0.124602, gap: 4.7192e-05
+Solver has finished after 586060 iterations, primal: 0.237171, dual: 0.23713, gap: 4.10527e-05
+Solver has finished after 586060 iterations, primal: 0.114956, dual: 0.114912, gap: 4.37647e-05
+Solver has finished after 586060 iterations, primal: 0.159626, dual: 0.159584, gap: 4.20213e-05
+Solver has finished after 586060 iterations, primal: 0.123228, dual: 0.123214, gap: 1.43945e-05
+Solver has finished after 586060 iterations, primal: 0.222115, dual: 0.222085, gap: 2.97278e-05
+Solver has finished after 586060 iterations, primal: 0.159087, dual: 0.159067, gap: 1.92672e-05
+primal: 0.159299
+loss: 0.154002
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 6.82529e-05
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.116113, dual: 0.116093, gap: 1.96993e-05
+Solver has finished after 586060 iterations, primal: 0.197617, dual: 0.197588, gap: 2.87592e-05
+Solver has finished after 586060 iterations, primal: 0.138342, dual: 0.138267, gap: 7.50721e-05
+Solver has finished after 586060 iterations, primal: 0.12474, dual: 0.124718, gap: 2.14055e-05
+Solver has finished after 586060 iterations, primal: 0.159276, dual: 0.159247, gap: 2.83867e-05
+Solver has finished after 586060 iterations, primal: 0.122862, dual: 0.122822, gap: 4.06206e-05
+Solver has finished after 586060 iterations, primal: 0.236645, dual: 0.236606, gap: 3.94434e-05
+Solver has finished after 586060 iterations, primal: 0.114909, dual: 0.114885, gap: 2.38717e-05
+Solver has finished after 586060 iterations, primal: 0.158499, dual: 0.158421, gap: 7.79033e-05
+Solver has finished after 586060 iterations, primal: 0.222674, dual: 0.222612, gap: 6.17206e-05
+primal: 0.159168
+loss: 0.153862
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 6.82529e-05
+Eps 0.0001
+Solver has finished after 586060 iterations, primal: 0.197149, dual: 0.19712, gap: 2.99215e-05
+Solver has finished after 586060 iterations, primal: 0.137991, dual: 0.137972, gap: 1.89245e-05
+Solver has finished after 586060 iterations, primal: 0.124717, dual: 0.12467, gap: 4.71473e-05
+Solver has finished after 586060 iterations, primal: 0.11628, dual: 0.116265, gap: 1.57356e-05
+Solver has finished after 586060 iterations, primal: 0.12286, dual: 0.122842, gap: 1.75312e-05
+Solver has finished after 586060 iterations, primal: 0.159264, dual: 0.159241, gap: 2.26051e-05
+Solver has finished after 586060 iterations, primal: 0.115072, dual: 0.115027, gap: 4.46886e-05
+Solver has finished after 586060 iterations, primal: 0.237069, dual: 0.237021, gap: 4.72665e-05
+Solver has finished after 586060 iterations, primal: 0.158774, dual: 0.158747, gap: 2.74032e-05
+Solver has finished after 586060 iterations, primal: 0.221957, dual: 0.221907, gap: 4.97103e-05
+primal: 0.159113
+loss: 0.153776
+val score=0.3719098408539402
+lambda=3.4126431603805773e-05
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 3.41264e-05
+Eps 0.0001
+Iteration 644655, inner it: 3, loss: 0.110315, primal: 0.113714, dual: 0.113657, gap: 5.61774e-05
+Iteration 644655, inner it: 3, loss: 0.121934, primal: 0.123547, dual: 0.123472, gap: 7.53701e-05
+Iteration 703260, inner it: 3, loss: 0.134456, primal: 0.136639, dual: 0.136583, gap: 5.5626e-05
+Iteration 703260, inner it: 3, loss: 0.192446, primal: 0.195484, dual: 0.195415, gap: 6.86049e-05
+Iteration 644655, inner it: 3, loss: 0.111606, primal: 0.113682, dual: 0.113596, gap: 8.61436e-05
+Iteration 644655, inner it: 3, loss: 0.113695, primal: 0.119461, dual: 0.119369, gap: 9.26554e-05
+Iteration 644655, inner it: 3, loss: 0.143003, primal: 0.152579, dual: 0.152496, gap: 8.27014e-05
+Iteration 761865, inner it: 3, loss: 0.213493, primal: 0.227195, dual: 0.227159, gap: 3.59863e-05
+Iteration 703260, inner it: 3, loss: 0.151771, primal: 0.155823, dual: 0.155768, gap: 5.56707e-05
+Iteration 703260, inner it: 3, loss: 0.207419, primal: 0.216158, dual: 0.216087, gap: 7.12425e-05
+primal: 0.155428
+loss: 0.150014
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 3.41264e-05
+Eps 0.0001
+Iteration 644655, inner it: 3, loss: 0.11066, primal: 0.114004, dual: 0.11394, gap: 6.36205e-05
+Iteration 644655, inner it: 3, loss: 0.134523, primal: 0.136661, dual: 0.136571, gap: 8.96007e-05
+Iteration 703260, inner it: 3, loss: 0.192308, primal: 0.195361, dual: 0.195303, gap: 5.71311e-05
+Iteration 703260, inner it: 3, loss: 0.12184, primal: 0.123498, dual: 0.123467, gap: 3.09125e-05
+Iteration 644655, inner it: 3, loss: 0.113567, primal: 0.119261, dual: 0.119182, gap: 7.85291e-05
+Iteration 644655, inner it: 3, loss: 0.143713, primal: 0.153145, dual: 0.153053, gap: 9.14931e-05
+Iteration 644655, inner it: 3, loss: 0.111558, primal: 0.113632, dual: 0.11354, gap: 9.22084e-05
+Iteration 761865, inner it: 3, loss: 0.213573, primal: 0.227208, dual: 0.227166, gap: 4.20362e-05
+Iteration 703260, inner it: 3, loss: 0.15197, primal: 0.156005, dual: 0.155949, gap: 5.62519e-05
+Iteration 703260, inner it: 3, loss: 0.207395, primal: 0.216203, dual: 0.216104, gap: 9.875e-05
+primal: 0.155498
+loss: 0.150111
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 3.41264e-05
+Eps 0.0001
+Solver has finished after 1172120 iterations, primal: 0.195574, dual: 0.195576, gap: -1.71363e-06
+Solver has finished after 1172120 iterations, primal: 0.136586, dual: 0.136586, gap: -4.61936e-07
+Solver has finished after 1172120 iterations, primal: 0.123556, dual: 0.123556, gap: 1.63913e-07
+Solver has finished after 1172120 iterations, primal: 0.114371, dual: 0.114372, gap: -1.21444e-06
+Solver has finished after 1172120 iterations, primal: 0.153303, dual: 0.153303, gap: 8.9407e-08
+Solver has finished after 1172120 iterations, primal: 0.113559, dual: 0.113559, gap: -1.93715e-07
+Solver has finished after 1172120 iterations, primal: 0.119368, dual: 0.119369, gap: -1.02818e-06
+Solver has finished after 1172120 iterations, primal: 0.227314, dual: 0.227315, gap: -8.04663e-07
+Solver has finished after 1172120 iterations, primal: 0.156338, dual: 0.156339, gap: -4.47035e-07
+Solver has finished after 1172120 iterations, primal: 0.216043, dual: 0.216043, gap: 1.19209e-07
+primal: 0.155601
+loss: 0.150244
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 3.41264e-05
+Eps 0.0001
+Solver has finished after 1172120 iterations, primal: 0.136907, dual: 0.136906, gap: 1.49012e-07
+Solver has finished after 1172120 iterations, primal: 0.12367, dual: 0.12367, gap: 2.83122e-07
+Solver has finished after 1172120 iterations, primal: 0.195565, dual: 0.195564, gap: 1.02818e-06
+Solver has finished after 1172120 iterations, primal: 0.113909, dual: 0.113909, gap: -3.65078e-07
+Solver has finished after 1172120 iterations, primal: 0.113494, dual: 0.113494, gap: -7.7486e-07
+Solver has finished after 1172120 iterations, primal: 0.118966, dual: 0.118967, gap: -9.46224e-07
+Solver has finished after 1172120 iterations, primal: 0.152898, dual: 0.152899, gap: -1.13249e-06
+Solver has finished after 1172120 iterations, primal: 0.226759, dual: 0.22676, gap: -1.63913e-06
+Solver has finished after 1172120 iterations, primal: 0.216763, dual: 0.216763, gap: -3.42727e-07
+Solver has finished after 1172120 iterations, primal: 0.155673, dual: 0.155673, gap: 2.08616e-07
+primal: 0.15546
+loss: 0.150087
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 3.41264e-05
+Eps 0.0001
+Solver has finished after 1172120 iterations, primal: 0.195026, dual: 0.195026, gap: -2.38419e-07
+Solver has finished after 1172120 iterations, primal: 0.136541, dual: 0.136541, gap: -3.27826e-07
+Solver has finished after 1172120 iterations, primal: 0.123667, dual: 0.123668, gap: -8.19564e-07
+Solver has finished after 1172120 iterations, primal: 0.114106, dual: 0.114107, gap: -1.75089e-06
+Solver has finished after 1172120 iterations, primal: 0.15289, dual: 0.152891, gap: -7.7486e-07
+Solver has finished after 1172120 iterations, primal: 0.113703, dual: 0.113704, gap: -7.45058e-07
+Solver has finished after 1172120 iterations, primal: 0.118984, dual: 0.118984, gap: -2.45869e-07
+Solver has finished after 1172120 iterations, primal: 0.22714, dual: 0.227142, gap: -1.2964e-06
+Solver has finished after 1172120 iterations, primal: 0.155975, dual: 0.155975, gap: 1.63913e-07
+Solver has finished after 1172120 iterations, primal: 0.215848, dual: 0.215848, gap: -6.70552e-07
+primal: 0.155388
+loss: 0.149992
+val score=0.39618060487625706
+lambda=1.7063215801902887e-05
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 1.70632e-05
+Eps 0.0001
+Iteration 644655, inner it: 8, loss: 0.107386, primal: 0.111212, dual: 0.111145, gap: 6.70031e-05
+Iteration 644655, inner it: 8, loss: 0.132763, primal: 0.135093, dual: 0.135003, gap: 8.98987e-05
+Iteration 703260, inner it: 8, loss: 0.120607, primal: 0.122373, dual: 0.122333, gap: 4.00692e-05
+Iteration 761865, inner it: 8, loss: 0.190163, primal: 0.193326, dual: 0.193294, gap: 3.22461e-05
+Iteration 644655, inner it: 8, loss: 0.109441, primal: 0.115389, dual: 0.115324, gap: 6.46934e-05
+Iteration 703260, inner it: 8, loss: 0.205795, primal: 0.218172, dual: 0.218101, gap: 7.16299e-05
+Iteration 644655, inner it: 8, loss: 0.109925, primal: 0.112188, dual: 0.112117, gap: 7.19577e-05
+Iteration 644655, inner it: 8, loss: 0.136379, primal: 0.145929, dual: 0.145831, gap: 9.82434e-05
+Iteration 703260, inner it: 8, loss: 0.201308, primal: 0.210083, dual: 0.210011, gap: 7.15405e-05
+Iteration 644655, inner it: 8, loss: 0.148943, primal: 0.153009, dual: 0.152922, gap: 8.75294e-05
+primal: 0.151676
+loss: 0.146269
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 1.70632e-05
+Eps 0.0001
+Iteration 644655, inner it: 8, loss: 0.120511, primal: 0.12232, dual: 0.122238, gap: 8.14572e-05
+Iteration 644655, inner it: 8, loss: 0.107742, primal: 0.111539, dual: 0.11146, gap: 7.85738e-05
+Iteration 644655, inner it: 8, loss: 0.132827, primal: 0.135133, dual: 0.135036, gap: 9.63062e-05
+Iteration 703260, inner it: 8, loss: 0.190047, primal: 0.193213, dual: 0.193148, gap: 6.54012e-05
+Iteration 644655, inner it: 8, loss: 0.10988, primal: 0.11214, dual: 0.112072, gap: 6.81877e-05
+Iteration 703260, inner it: 8, loss: 0.205956, primal: 0.21824, dual: 0.218164, gap: 7.61002e-05
+Iteration 703260, inner it: 8, loss: 0.109407, primal: 0.115255, dual: 0.115204, gap: 5.08204e-05
+Iteration 703260, inner it: 8, loss: 0.13716, primal: 0.146576, dual: 0.146522, gap: 5.39422e-05
+Iteration 703260, inner it: 8, loss: 0.201179, primal: 0.21006, dual: 0.209992, gap: 6.78301e-05
+Iteration 703260, inner it: 8, loss: 0.149123, primal: 0.15319, dual: 0.153119, gap: 7.1317e-05
+primal: 0.151766
+loss: 0.146383
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 1.70632e-05
+Eps 0.0001
+Iteration 644666, inner it: 8, loss: 0.120637, primal: 0.122393, dual: 0.122319, gap: 7.38576e-05
+Iteration 703272, inner it: 8, loss: 0.108279, primal: 0.111978, dual: 0.111932, gap: 4.60818e-05
+Iteration 703272, inner it: 8, loss: 0.13269, primal: 0.135027, dual: 0.134957, gap: 7.00355e-05
+Iteration 703272, inner it: 8, loss: 0.190309, primal: 0.193458, dual: 0.193389, gap: 6.82771e-05
+Iteration 703272, inner it: 8, loss: 0.109792, primal: 0.112064, dual: 0.11202, gap: 4.43608e-05
+Iteration 644666, inner it: 8, loss: 0.109458, primal: 0.115344, dual: 0.115274, gap: 7.00578e-05
+Iteration 703272, inner it: 8, loss: 0.206288, primal: 0.218458, dual: 0.218366, gap: 9.23276e-05
+Iteration 703272, inner it: 8, loss: 0.137514, primal: 0.146822, dual: 0.146771, gap: 5.09471e-05
+Iteration 703272, inner it: 8, loss: 0.200896, primal: 0.20986, dual: 0.209775, gap: 8.49366e-05
+Iteration 761878, inner it: 9, loss: 0.149591, primal: 0.153588, dual: 0.153563, gap: 2.57045e-05
+primal: 0.151899
+loss: 0.146545
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 1.70632e-05
+Eps 0.0001
+Iteration 644666, inner it: 8, loss: 0.107554, primal: 0.111405, dual: 0.111346, gap: 5.88596e-05
+Iteration 644666, inner it: 8, loss: 0.133123, primal: 0.135403, dual: 0.135314, gap: 8.93474e-05
+Iteration 644666, inner it: 8, loss: 0.120763, primal: 0.122526, dual: 0.122433, gap: 9.25362e-05
+Iteration 703272, inner it: 8, loss: 0.190264, primal: 0.193426, dual: 0.193362, gap: 6.40303e-05
+Iteration 644666, inner it: 8, loss: 0.108988, primal: 0.114913, dual: 0.114835, gap: 7.74562e-05
+Iteration 703272, inner it: 8, loss: 0.205553, primal: 0.217835, dual: 0.217762, gap: 7.3418e-05
+Iteration 703272, inner it: 8, loss: 0.109648, primal: 0.111962, dual: 0.111928, gap: 3.4377e-05
+Iteration 703272, inner it: 8, loss: 0.13696, primal: 0.146356, dual: 0.146314, gap: 4.2066e-05
+Iteration 703272, inner it: 8, loss: 0.201952, primal: 0.210718, dual: 0.210651, gap: 6.76513e-05
+Iteration 644666, inner it: 8, loss: 0.148754, primal: 0.152855, dual: 0.152757, gap: 9.79006e-05
+primal: 0.15174
+loss: 0.146356
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 1.70632e-05
+Eps 0.0001
+Iteration 644666, inner it: 8, loss: 0.107855, primal: 0.111646, dual: 0.111576, gap: 7.01696e-05
+Iteration 644666, inner it: 8, loss: 0.12086, primal: 0.122551, dual: 0.122479, gap: 7.18012e-05
+Iteration 644666, inner it: 8, loss: 0.132684, primal: 0.135, dual: 0.134921, gap: 7.96765e-05
+Iteration 703272, inner it: 8, loss: 0.189613, primal: 0.192836, dual: 0.192748, gap: 8.85874e-05
+Iteration 644666, inner it: 8, loss: 0.109086, primal: 0.114959, dual: 0.114895, gap: 6.35386e-05
+Iteration 644666, inner it: 8, loss: 0.109991, primal: 0.112244, dual: 0.112153, gap: 9.0614e-05
+Iteration 703272, inner it: 8, loss: 0.205905, primal: 0.218189, dual: 0.218117, gap: 7.1615e-05
+Iteration 703272, inner it: 8, loss: 0.136951, primal: 0.146357, dual: 0.146291, gap: 6.54757e-05
+Iteration 644666, inner it: 8, loss: 0.149069, primal: 0.153166, dual: 0.153075, gap: 9.03159e-05
+Iteration 820484, inner it: 9, loss: 0.200686, primal: 0.20965, dual: 0.20962, gap: 3.00854e-05
+primal: 0.151659
+loss: 0.146269
+val score=0.4200008532306668
+lambda=8.531607900951443e-06
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 8.53161e-06
+Eps 0.0001
+Iteration 644655, inner it: 10, loss: 0.104233, primal: 0.108435, dual: 0.108366, gap: 6.8821e-05
+Iteration 644655, inner it: 10, loss: 0.130895, primal: 0.133404, dual: 0.133315, gap: 8.91984e-05
+Iteration 703260, inner it: 11, loss: 0.187828, primal: 0.1911, dual: 0.191031, gap: 6.86496e-05
+Iteration 703260, inner it: 11, loss: 0.119169, primal: 0.1211, dual: 0.121055, gap: 4.50909e-05
+Iteration 644655, inner it: 10, loss: 0.105335, primal: 0.111271, dual: 0.111199, gap: 7.14958e-05
+Iteration 644655, inner it: 10, loss: 0.130436, primal: 0.139467, dual: 0.139368, gap: 9.91523e-05
+Iteration 644655, inner it: 10, loss: 0.108094, primal: 0.110558, dual: 0.110486, gap: 7.15777e-05
+Iteration 703260, inner it: 11, loss: 0.198622, primal: 0.209963, dual: 0.209887, gap: 7.60257e-05
+Iteration 703260, inner it: 11, loss: 0.146011, primal: 0.150157, dual: 0.150109, gap: 4.80562e-05
+Iteration 703260, inner it: 11, loss: 0.195341, primal: 0.204021, dual: 0.203944, gap: 7.66814e-05
+primal: 0.147948
+loss: 0.142596
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 8.53161e-06
+Eps 0.0001
+Iteration 644655, inner it: 10, loss: 0.119033, primal: 0.121007, dual: 0.120918, gap: 8.91015e-05
+Iteration 703260, inner it: 11, loss: 0.104536, primal: 0.108754, dual: 0.108717, gap: 3.66718e-05
+Iteration 703260, inner it: 11, loss: 0.130965, primal: 0.133466, dual: 0.133416, gap: 4.97848e-05
+Iteration 703260, inner it: 11, loss: 0.18772, primal: 0.190999, dual: 0.190904, gap: 9.46373e-05
+Iteration 644655, inner it: 10, loss: 0.10807, primal: 0.110527, dual: 0.110433, gap: 9.41679e-05
+Iteration 703260, inner it: 11, loss: 0.198922, primal: 0.210126, dual: 0.210033, gap: 9.2715e-05
+Iteration 703260, inner it: 11, loss: 0.131244, primal: 0.140188, dual: 0.140139, gap: 4.88311e-05
+Iteration 703260, inner it: 11, loss: 0.105363, primal: 0.111186, dual: 0.111132, gap: 5.44116e-05
+Iteration 703260, inner it: 11, loss: 0.195121, primal: 0.203936, dual: 0.203845, gap: 9.04799e-05
+Iteration 703260, inner it: 11, loss: 0.146218, primal: 0.150366, dual: 0.150297, gap: 6.89626e-05
+primal: 0.148053
+loss: 0.142714
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 8.53161e-06
+Eps 0.0001
+Iteration 644666, inner it: 10, loss: 0.105158, primal: 0.109263, dual: 0.109187, gap: 7.59959e-05
+Iteration 644666, inner it: 10, loss: 0.119234, primal: 0.121144, dual: 0.121048, gap: 9.54121e-05
+Iteration 644666, inner it: 9, loss: 0.13085, primal: 0.133356, dual: 0.133269, gap: 8.72314e-05
+Iteration 761878, inner it: 12, loss: 0.187931, primal: 0.19122, dual: 0.191181, gap: 3.9503e-05
+Iteration 644666, inner it: 10, loss: 0.107949, primal: 0.11042, dual: 0.11035, gap: 6.99237e-05
+Iteration 703272, inner it: 11, loss: 0.19926, primal: 0.210388, dual: 0.210303, gap: 8.43853e-05
+Iteration 703272, inner it: 11, loss: 0.105394, primal: 0.111266, dual: 0.111223, gap: 4.296e-05
+Iteration 703272, inner it: 11, loss: 0.131724, primal: 0.140521, dual: 0.140472, gap: 4.88609e-05
+Iteration 703272, inner it: 11, loss: 0.194804, primal: 0.20367, dual: 0.203593, gap: 7.74711e-05
+Iteration 703272, inner it: 11, loss: 0.146709, primal: 0.150789, dual: 0.150745, gap: 4.36753e-05
+primal: 0.148203
+loss: 0.142901
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 8.53161e-06
+Eps 0.0001
+Iteration 644666, inner it: 10, loss: 0.104332, primal: 0.108598, dual: 0.108519, gap: 7.81119e-05
+Iteration 703272, inner it: 11, loss: 0.119316, primal: 0.121247, dual: 0.121194, gap: 5.21541e-05
+Iteration 703272, inner it: 11, loss: 0.131314, primal: 0.133768, dual: 0.133684, gap: 8.46088e-05
+Iteration 703272, inner it: 11, loss: 0.187898, primal: 0.191191, dual: 0.191121, gap: 7.01845e-05
+Iteration 703272, inner it: 11, loss: 0.198395, primal: 0.209684, dual: 0.209614, gap: 6.99461e-05
+Iteration 644666, inner it: 10, loss: 0.107792, primal: 0.110298, dual: 0.110224, gap: 7.44015e-05
+Iteration 644666, inner it: 10, loss: 0.104909, primal: 0.110806, dual: 0.110737, gap: 6.8523e-05
+Iteration 703272, inner it: 11, loss: 0.131093, primal: 0.140006, dual: 0.139945, gap: 6.15567e-05
+Iteration 703272, inner it: 11, loss: 0.195942, primal: 0.204663, dual: 0.204584, gap: 7.90805e-05
+Iteration 703272, inner it: 11, loss: 0.145819, primal: 0.149986, dual: 0.149926, gap: 5.94705e-05
+primal: 0.148023
+loss: 0.142677
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 8.53161e-06
+Eps 0.0001
+Iteration 644666, inner it: 10, loss: 0.119491, primal: 0.121336, dual: 0.121256, gap: 8.06972e-05
+Iteration 644666, inner it: 10, loss: 0.104659, primal: 0.108863, dual: 0.108796, gap: 6.71297e-05
+Iteration 703272, inner it: 11, loss: 0.187236, primal: 0.190564, dual: 0.190497, gap: 6.7696e-05
+Iteration 703272, inner it: 11, loss: 0.130819, primal: 0.133332, dual: 0.133273, gap: 5.82039e-05
+Iteration 644666, inner it: 10, loss: 0.108148, primal: 0.110605, dual: 0.110518, gap: 8.72612e-05
+Iteration 703272, inner it: 11, loss: 0.198799, primal: 0.210065, dual: 0.209971, gap: 9.39071e-05
+Iteration 644666, inner it: 10, loss: 0.105048, primal: 0.110894, dual: 0.110817, gap: 7.72402e-05
+Iteration 761878, inner it: 12, loss: 0.131086, primal: 0.139983, dual: 0.139946, gap: 3.67612e-05
+Iteration 703272, inner it: 11, loss: 0.194638, primal: 0.203468, dual: 0.203398, gap: 6.97523e-05
+Iteration 644666, inner it: 10, loss: 0.146097, primal: 0.150296, dual: 0.1502, gap: 9.59784e-05
+primal: 0.147941
+loss: 0.142602
+val score=0.442633467478188
+lambda=4.265803950475722e-06
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 4.2658e-06
+Eps 0.0001
+Iteration 644655, inner it: 10, loss: 0.100905, primal: 0.105408, dual: 0.105316, gap: 9.22531e-05
+Iteration 703260, inner it: 11, loss: 0.128929, primal: 0.131614, dual: 0.131545, gap: 6.91712e-05
+Iteration 703260, inner it: 11, loss: 0.117633, primal: 0.119707, dual: 0.11965, gap: 5.67958e-05
+Iteration 703260, inner it: 11, loss: 0.185434, primal: 0.188797, dual: 0.188715, gap: 8.18223e-05
+Iteration 761865, inner it: 12, loss: 0.191743, primal: 0.202363, dual: 0.202312, gap: 5.0962e-05
+Iteration 703260, inner it: 11, loss: 0.101376, primal: 0.107189, dual: 0.10713, gap: 5.94109e-05
+Iteration 703260, inner it: 11, loss: 0.106122, primal: 0.108776, dual: 0.108728, gap: 4.80935e-05
+Iteration 703260, inner it: 11, loss: 0.125208, primal: 0.13348, dual: 0.133392, gap: 8.80957e-05
+Iteration 703260, inner it: 11, loss: 0.142996, primal: 0.147251, dual: 0.147189, gap: 6.11097e-05
+Iteration 761865, inner it: 12, loss: 0.189589, primal: 0.198095, dual: 0.198017, gap: 7.80076e-05
+primal: 0.144266
+loss: 0.138993
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 4.2658e-06
+Eps 0.0001
+Iteration 644655, inner it: 10, loss: 0.101148, primal: 0.105713, dual: 0.105621, gap: 9.11579e-05
+Iteration 644655, inner it: 10, loss: 0.117474, primal: 0.119582, dual: 0.119498, gap: 8.38339e-05
+Iteration 703260, inner it: 11, loss: 0.128945, primal: 0.131653, dual: 0.131599, gap: 5.40167e-05
+Iteration 703260, inner it: 11, loss: 0.1853, primal: 0.188676, dual: 0.188583, gap: 9.23425e-05
+Iteration 761865, inner it: 12, loss: 0.19223, primal: 0.202636, dual: 0.20258, gap: 5.66244e-05
+Iteration 703260, inner it: 11, loss: 0.106085, primal: 0.108737, dual: 0.108693, gap: 4.41596e-05
+Iteration 703260, inner it: 11, loss: 0.101516, primal: 0.107196, dual: 0.107147, gap: 4.87044e-05
+Iteration 761865, inner it: 12, loss: 0.125988, primal: 0.134234, dual: 0.134191, gap: 4.30197e-05
+Iteration 703260, inner it: 11, loss: 0.189176, primal: 0.197857, dual: 0.197763, gap: 9.3624e-05
+Iteration 703260, inner it: 11, loss: 0.143197, primal: 0.147439, dual: 0.147375, gap: 6.35684e-05
+primal: 0.144372
+loss: 0.139106
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 4.2658e-06
+Eps 0.0001
+Iteration 644666, inner it: 10, loss: 0.117722, primal: 0.119765, dual: 0.119668, gap: 9.70736e-05
+Iteration 644666, inner it: 10, loss: 0.128898, primal: 0.131566, dual: 0.131468, gap: 9.8139e-05
+Iteration 703272, inner it: 11, loss: 0.101854, primal: 0.106298, dual: 0.106248, gap: 5.01052e-05
+Iteration 703272, inner it: 11, loss: 0.185519, primal: 0.188912, dual: 0.188821, gap: 9.18359e-05
+Iteration 644666, inner it: 10, loss: 0.101509, primal: 0.107254, dual: 0.107154, gap: 9.94653e-05
+Iteration 644666, inner it: 10, loss: 0.10597, primal: 0.108636, dual: 0.108556, gap: 7.94455e-05
+Iteration 703272, inner it: 11, loss: 0.126607, primal: 0.134669, dual: 0.134606, gap: 6.23614e-05
+Iteration 761878, inner it: 12, loss: 0.192594, primal: 0.202958, dual: 0.202895, gap: 6.38217e-05
+Iteration 703272, inner it: 11, loss: 0.143759, primal: 0.147933, dual: 0.147866, gap: 6.6936e-05
+Iteration 703272, inner it: 11, loss: 0.188918, primal: 0.197587, dual: 0.197492, gap: 9.53078e-05
+primal: 0.144558
+loss: 0.139335
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 4.2658e-06
+Eps 0.0001
+Iteration 644666, inner it: 10, loss: 0.100921, primal: 0.105515, dual: 0.10543, gap: 8.47951e-05
+Iteration 644666, inner it: 10, loss: 0.117783, primal: 0.119854, dual: 0.119763, gap: 9.11728e-05
+Iteration 703272, inner it: 11, loss: 0.185482, primal: 0.188873, dual: 0.188793, gap: 8.05408e-05
+Iteration 703272, inner it: 11, loss: 0.129351, primal: 0.131989, dual: 0.131936, gap: 5.2765e-05
+Iteration 644666, inner it: 10, loss: 0.105805, primal: 0.108495, dual: 0.108422, gap: 7.28294e-05
+Iteration 761878, inner it: 12, loss: 0.191589, primal: 0.202142, dual: 0.202074, gap: 6.8441e-05
+Iteration 703272, inner it: 11, loss: 0.125861, primal: 0.134061, dual: 0.133996, gap: 6.4373e-05
+Iteration 703272, inner it: 11, loss: 0.101028, primal: 0.106768, dual: 0.106716, gap: 5.21094e-05
+Iteration 703272, inner it: 11, loss: 0.19006, primal: 0.198649, dual: 0.198557, gap: 9.15229e-05
+Iteration 703272, inner it: 11, loss: 0.142818, primal: 0.147068, dual: 0.147003, gap: 6.5133e-05
+primal: 0.14434
+loss: 0.139069
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 4.2658e-06
+Eps 0.0001
+Iteration 644666, inner it: 10, loss: 0.10131, primal: 0.105839, dual: 0.105752, gap: 8.68887e-05
+Iteration 703272, inner it: 11, loss: 0.118032, primal: 0.120003, dual: 0.119927, gap: 7.66516e-05
+Iteration 703272, inner it: 11, loss: 0.128815, primal: 0.131526, dual: 0.13146, gap: 6.58482e-05
+Iteration 703272, inner it: 11, loss: 0.184816, primal: 0.188226, dual: 0.188146, gap: 8.08239e-05
+Iteration 644666, inner it: 10, loss: 0.106174, primal: 0.108827, dual: 0.108735, gap: 9.21413e-05
+Iteration 644666, inner it: 10, loss: 0.101192, primal: 0.106891, dual: 0.106806, gap: 8.51825e-05
+Iteration 761878, inner it: 12, loss: 0.191933, primal: 0.202499, dual: 0.202446, gap: 5.30779e-05
+Iteration 703272, inner it: 11, loss: 0.125896, primal: 0.134057, dual: 0.133992, gap: 6.51181e-05
+Iteration 761878, inner it: 12, loss: 0.188802, primal: 0.197433, dual: 0.197365, gap: 6.81877e-05
+Iteration 703272, inner it: 11, loss: 0.143046, primal: 0.147347, dual: 0.147285, gap: 6.27637e-05
+primal: 0.144265
+loss: 0.139001
+val score=0.464720090496488
+lambda=2.132901975237861e-06
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 2.1329e-06
+Eps 0.0001
+Iteration 703260, inner it: 11, loss: 0.116103, primal: 0.118233, dual: 0.118148, gap: 8.51303e-05
+Iteration 761865, inner it: 12, loss: 0.0975468, primal: 0.10223, dual: 0.102139, gap: 9.09567e-05
+Iteration 761865, inner it: 12, loss: 0.126872, primal: 0.129691, dual: 0.129624, gap: 6.65039e-05
+Iteration 761865, inner it: 12, loss: 0.183036, primal: 0.186434, dual: 0.186358, gap: 7.54446e-05
+Iteration 703260, inner it: 11, loss: 0.104103, primal: 0.106889, dual: 0.106799, gap: 8.9325e-05
+Iteration 761865, inner it: 12, loss: 0.0976352, primal: 0.103241, dual: 0.103146, gap: 9.54047e-05
+Iteration 820470, inner it: 13, loss: 0.185236, primal: 0.195235, dual: 0.195138, gap: 9.74387e-05
+Iteration 820470, inner it: 13, loss: 0.120431, primal: 0.127953, dual: 0.1279, gap: 5.30779e-05
+Iteration 761865, inner it: 12, loss: 0.139994, primal: 0.144281, dual: 0.144213, gap: 6.76215e-05
+Iteration 820470, inner it: 13, loss: 0.183923, primal: 0.19223, dual: 0.192146, gap: 8.38339e-05
+primal: 0.140636
+loss: 0.135496
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 2.1329e-06
+Eps 0.0001
+Iteration 703260, inner it: 11, loss: 0.126889, primal: 0.129728, dual: 0.129635, gap: 9.30727e-05
+Iteration 703260, inner it: 11, loss: 0.115909, primal: 0.118083, dual: 0.117988, gap: 9.50545e-05
+Iteration 761865, inner it: 12, loss: 0.097659, primal: 0.102449, dual: 0.102381, gap: 6.79493e-05
+Iteration 761865, inner it: 12, loss: 0.182894, primal: 0.186299, dual: 0.186213, gap: 8.60542e-05
+Iteration 703260, inner it: 11, loss: 0.104062, primal: 0.106852, dual: 0.106762, gap: 9.02265e-05
+Iteration 761865, inner it: 12, loss: 0.097869, primal: 0.103318, dual: 0.103247, gap: 7.06613e-05
+Iteration 761865, inner it: 12, loss: 0.121273, primal: 0.128752, dual: 0.128663, gap: 8.93325e-05
+Iteration 820470, inner it: 13, loss: 0.185901, primal: 0.195636, dual: 0.195572, gap: 6.41793e-05
+Iteration 761865, inner it: 12, loss: 0.140215, primal: 0.144473, dual: 0.144411, gap: 6.23316e-05
+Iteration 820470, inner it: 13, loss: 0.183355, primal: 0.191864, dual: 0.191798, gap: 6.54608e-05
+primal: 0.140745
+loss: 0.135603
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 2.1329e-06
+Eps 0.0001
+Iteration 703272, inner it: 11, loss: 0.116191, primal: 0.118299, dual: 0.118215, gap: 8.36775e-05
+Iteration 703272, inner it: 11, loss: 0.126902, primal: 0.129667, dual: 0.129576, gap: 9.16719e-05
+Iteration 761878, inner it: 12, loss: 0.0984684, primal: 0.103113, dual: 0.103054, gap: 5.89937e-05
+Iteration 761878, inner it: 12, loss: 0.183096, primal: 0.186521, dual: 0.186456, gap: 6.52075e-05
+Iteration 703272, inner it: 11, loss: 0.103949, primal: 0.106738, dual: 0.106653, gap: 8.51601e-05
+Iteration 761878, inner it: 12, loss: 0.0977524, primal: 0.103308, dual: 0.103216, gap: 9.18508e-05
+Iteration 820484, inner it: 13, loss: 0.186253, primal: 0.195977, dual: 0.195907, gap: 7.07358e-05
+Iteration 820484, inner it: 13, loss: 0.121943, primal: 0.129305, dual: 0.129236, gap: 6.935e-05
+Iteration 761878, inner it: 12, loss: 0.140831, primal: 0.145022, dual: 0.144955, gap: 6.69509e-05
+Iteration 820484, inner it: 13, loss: 0.183233, primal: 0.191634, dual: 0.191576, gap: 5.8502e-05
+primal: 0.140958
+loss: 0.135862
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 2.1329e-06
+Eps 0.0001
+Iteration 703272, inner it: 11, loss: 0.127363, primal: 0.130111, dual: 0.130018, gap: 9.34452e-05
+Iteration 703272, inner it: 11, loss: 0.116247, primal: 0.118383, dual: 0.118298, gap: 8.53166e-05
+Iteration 761878, inner it: 12, loss: 0.18307, primal: 0.186489, dual: 0.18641, gap: 7.90954e-05
+Iteration 761878, inner it: 12, loss: 0.0974385, primal: 0.102231, dual: 0.102166, gap: 6.56918e-05
+Iteration 703272, inner it: 11, loss: 0.10378, primal: 0.106583, dual: 0.106497, gap: 8.55848e-05
+Iteration 761878, inner it: 12, loss: 0.0973475, primal: 0.102856, dual: 0.102783, gap: 7.31647e-05
+Iteration 820484, inner it: 13, loss: 0.121068, primal: 0.128583, dual: 0.128532, gap: 5.14537e-05
+Iteration 820484, inner it: 13, loss: 0.185091, primal: 0.195006, dual: 0.194941, gap: 6.56247e-05
+Iteration 761878, inner it: 12, loss: 0.139841, primal: 0.144111, dual: 0.14404, gap: 7.05868e-05
+Iteration 820484, inner it: 13, loss: 0.184336, primal: 0.192739, dual: 0.192669, gap: 7.07209e-05
+primal: 0.140709
+loss: 0.135562
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 2.1329e-06
+Eps 0.0001
+Iteration 761878, inner it: 12, loss: 0.0978499, primal: 0.102594, dual: 0.102526, gap: 6.86049e-05
+Iteration 761878, inner it: 12, loss: 0.126746, primal: 0.12959, dual: 0.129535, gap: 5.47618e-05
+Iteration 761878, inner it: 12, loss: 0.18239, primal: 0.18583, dual: 0.185754, gap: 7.59661e-05
+Iteration 761878, inner it: 12, loss: 0.116542, primal: 0.118592, dual: 0.118541, gap: 5.0582e-05
+Iteration 703272, inner it: 11, loss: 0.104149, primal: 0.106932, dual: 0.106851, gap: 8.14795e-05
+Iteration 761878, inner it: 12, loss: 0.097495, primal: 0.102988, dual: 0.102912, gap: 7.66069e-05
+Iteration 820484, inner it: 13, loss: 0.185402, primal: 0.195375, dual: 0.195295, gap: 7.90805e-05
+Iteration 820484, inner it: 13, loss: 0.121188, primal: 0.128624, dual: 0.128573, gap: 5.10663e-05
+Iteration 761878, inner it: 12, loss: 0.14002, primal: 0.144344, dual: 0.144277, gap: 6.74278e-05
+Iteration 820484, inner it: 13, loss: 0.183097, primal: 0.191491, dual: 0.191425, gap: 6.59823e-05
+primal: 0.140636
+loss: 0.135488
+val score=0.48425412835350723
+lambda=1.0664509876189304e-06
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 1.06645e-06
+Eps 0.0001
+Iteration 879075, inner it: 14, loss: 0.12485, primal: 0.127701, dual: 0.127605, gap: 9.6485e-05
+Iteration 879075, inner it: 14, loss: 0.114506, primal: 0.116677, dual: 0.116586, gap: 9.05693e-05
+Iteration 937680, inner it: 15, loss: 0.180631, primal: 0.184014, dual: 0.183931, gap: 8.34614e-05
+Iteration 996285, inner it: 16, loss: 0.0940008, primal: 0.0988351, dual: 0.0987654, gap: 6.96108e-05
+Iteration 879075, inner it: 14, loss: 0.102019, primal: 0.104883, dual: 0.104789, gap: 9.42796e-05
+Iteration 996285, inner it: 16, loss: 0.0939114, primal: 0.0993391, dual: 0.0992582, gap: 8.08537e-05
+Iteration 1054890, inner it: 17, loss: 0.115938, primal: 0.122888, dual: 0.12282, gap: 6.78375e-05
+Iteration 1054890, inner it: 17, loss: 0.178941, primal: 0.188395, dual: 0.188316, gap: 7.89911e-05
+Iteration 937680, inner it: 15, loss: 0.137072, primal: 0.141293, dual: 0.141203, gap: 8.91238e-05
+Iteration 1054890, inner it: 17, loss: 0.178286, primal: 0.18642, dual: 0.186352, gap: 6.84112e-05
+primal: 0.137045
+loss: 0.132016
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 1.06645e-06
+Eps 0.0001
+Iteration 879075, inner it: 14, loss: 0.114286, primal: 0.116486, dual: 0.116395, gap: 9.13069e-05
+Iteration 937680, inner it: 15, loss: 0.124725, primal: 0.127671, dual: 0.127601, gap: 7.00802e-05
+Iteration 937680, inner it: 15, loss: 0.180452, primal: 0.183858, dual: 0.183775, gap: 8.34912e-05
+Iteration 996285, inner it: 16, loss: 0.0940695, primal: 0.0990269, dual: 0.0989484, gap: 7.85291e-05
+Iteration 879075, inner it: 14, loss: 0.102013, primal: 0.104859, dual: 0.104765, gap: 9.38326e-05
+Iteration 996285, inner it: 16, loss: 0.0942863, primal: 0.099549, dual: 0.0994662, gap: 8.28281e-05
+Iteration 1054890, inner it: 17, loss: 0.116661, primal: 0.123659, dual: 0.123599, gap: 6.02975e-05
+Iteration 1054890, inner it: 17, loss: 0.179735, primal: 0.188978, dual: 0.188896, gap: 8.22991e-05
+Iteration 937680, inner it: 15, loss: 0.137304, primal: 0.141496, dual: 0.141406, gap: 9.00924e-05
+Iteration 1054890, inner it: 17, loss: 0.17761, primal: 0.185937, dual: 0.185869, gap: 6.74874e-05
+primal: 0.137152
+loss: 0.132114
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 1.06645e-06
+Eps 0.0001
+Iteration 879090, inner it: 14, loss: 0.114607, primal: 0.116756, dual: 0.116669, gap: 8.74698e-05
+Iteration 879090, inner it: 14, loss: 0.124885, primal: 0.127689, dual: 0.127592, gap: 9.72748e-05
+Iteration 937696, inner it: 15, loss: 0.180694, primal: 0.184092, dual: 0.184004, gap: 8.75592e-05
+Iteration 996302, inner it: 16, loss: 0.0949575, primal: 0.0997741, dual: 0.0997068, gap: 6.72638e-05
+Iteration 879090, inner it: 14, loss: 0.10187, primal: 0.104734, dual: 0.104637, gap: 9.71481e-05
+Iteration 996302, inner it: 16, loss: 0.0940447, primal: 0.0994403, dual: 0.0993551, gap: 8.52421e-05
+Iteration 1054908, inner it: 17, loss: 0.117487, primal: 0.124332, dual: 0.12427, gap: 6.24731e-05
+Iteration 1054908, inner it: 17, loss: 0.180161, primal: 0.189343, dual: 0.189263, gap: 8.02428e-05
+Iteration 937696, inner it: 15, loss: 0.137985, primal: 0.142099, dual: 0.142008, gap: 9.121e-05
+Iteration 1054908, inner it: 17, loss: 0.177612, primal: 0.185791, dual: 0.185723, gap: 6.8143e-05
+primal: 0.137405
+loss: 0.13243
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 1.06645e-06
+Eps 0.0001
+Iteration 879090, inner it: 14, loss: 0.114671, primal: 0.116823, dual: 0.116735, gap: 8.80584e-05
+Iteration 937696, inner it: 15, loss: 0.180656, primal: 0.184056, dual: 0.18397, gap: 8.57413e-05
+Iteration 937696, inner it: 15, loss: 0.12531, primal: 0.128135, dual: 0.12807, gap: 6.53267e-05
+Iteration 996302, inner it: 16, loss: 0.0938876, primal: 0.0988107, dual: 0.0987423, gap: 6.84187e-05
+Iteration 937696, inner it: 15, loss: 0.101684, primal: 0.104572, dual: 0.104498, gap: 7.34925e-05
+Iteration 996302, inner it: 16, loss: 0.0937695, primal: 0.0990572, dual: 0.0989781, gap: 7.90805e-05
+Iteration 1054908, inner it: 17, loss: 0.116475, primal: 0.123491, dual: 0.123428, gap: 6.24955e-05
+Iteration 1054908, inner it: 17, loss: 0.178848, primal: 0.188234, dual: 0.188155, gap: 7.94232e-05
+Iteration 937696, inner it: 15, loss: 0.136957, primal: 0.141139, dual: 0.14105, gap: 8.87513e-05
+Iteration 1054908, inner it: 17, loss: 0.178594, primal: 0.186857, dual: 0.186786, gap: 7.10934e-05
+primal: 0.137118
+loss: 0.132085
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 1.06645e-06
+Eps 0.0001
+Iteration 879090, inner it: 14, loss: 0.124682, primal: 0.127569, dual: 0.127471, gap: 9.77963e-05
+Iteration 879090, inner it: 14, loss: 0.115037, primal: 0.117109, dual: 0.117014, gap: 9.44957e-05
+Iteration 937696, inner it: 15, loss: 0.17992, primal: 0.183363, dual: 0.183277, gap: 8.5339e-05
+Iteration 996302, inner it: 16, loss: 0.094317, primal: 0.0992031, dual: 0.0991365, gap: 6.66454e-05
+Iteration 879090, inner it: 14, loss: 0.102082, primal: 0.104938, dual: 0.104842, gap: 9.59858e-05
+Iteration 996302, inner it: 16, loss: 0.0938709, primal: 0.0991831, dual: 0.0991047, gap: 7.84099e-05
+Iteration 1054908, inner it: 17, loss: 0.116709, primal: 0.123607, dual: 0.123542, gap: 6.47604e-05
+Iteration 1054908, inner it: 17, loss: 0.179132, primal: 0.188569, dual: 0.188491, gap: 7.7948e-05
+Iteration 937696, inner it: 15, loss: 0.137096, primal: 0.141337, dual: 0.141249, gap: 8.7738e-05
+Iteration 1054908, inner it: 17, loss: 0.177468, primal: 0.185649, dual: 0.185584, gap: 6.50138e-05
+primal: 0.137053
+loss: 0.132031
+val score=0.5016995669169583
+lambda=5.332254938094652e-07
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 5.33225e-07
+Eps 0.0001
+Iteration 1230705, inner it: 20, loss: 0.112693, primal: 0.114994, dual: 0.114896, gap: 9.80124e-05
+Iteration 1289310, inner it: 21, loss: 0.122751, primal: 0.125633, dual: 0.125545, gap: 8.80063e-05
+Iteration 1347915, inner it: 22, loss: 0.178017, primal: 0.181494, dual: 0.181417, gap: 7.77394e-05
+Iteration 1406520, inner it: 23, loss: 0.0904041, primal: 0.0953643, dual: 0.0952824, gap: 8.18893e-05
+Iteration 1289310, inner it: 21, loss: 0.0998243, primal: 0.102781, dual: 0.102699, gap: 8.19042e-05
+Iteration 1406520, inner it: 23, loss: 0.0902532, primal: 0.0955411, dual: 0.0954417, gap: 9.93386e-05
+Iteration 1465125, inner it: 24, loss: 0.111554, primal: 0.118122, dual: 0.118032, gap: 8.94442e-05
+Iteration 1523730, inner it: 25, loss: 0.172939, primal: 0.181899, dual: 0.181823, gap: 7.6279e-05
+Iteration 1347915, inner it: 22, loss: 0.134185, primal: 0.138298, dual: 0.138205, gap: 9.38624e-05
+Iteration 1465125, inner it: 24, loss: 0.172591, primal: 0.180658, dual: 0.180563, gap: 9.45926e-05
+primal: 0.133478
+loss: 0.128521
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 5.33225e-07
+Eps 0.0001
+Iteration 1289310, inner it: 21, loss: 0.112368, primal: 0.114758, dual: 0.114681, gap: 7.66814e-05
+Iteration 1289310, inner it: 21, loss: 0.122516, primal: 0.12553, dual: 0.125441, gap: 8.87364e-05
+Iteration 1347915, inner it: 22, loss: 0.177822, primal: 0.181323, dual: 0.181245, gap: 7.74115e-05
+Iteration 1406520, inner it: 23, loss: 0.0904425, primal: 0.0954831, dual: 0.095405, gap: 7.80523e-05
+Iteration 1289310, inner it: 21, loss: 0.0998574, primal: 0.102781, dual: 0.102698, gap: 8.25301e-05
+Iteration 1406520, inner it: 23, loss: 0.0907293, primal: 0.0958543, dual: 0.0957577, gap: 9.66117e-05
+Iteration 1465125, inner it: 24, loss: 0.112214, primal: 0.118855, dual: 0.118762, gap: 9.30429e-05
+Iteration 1465125, inner it: 24, loss: 0.173694, primal: 0.182572, dual: 0.182475, gap: 9.71109e-05
+Iteration 1347915, inner it: 22, loss: 0.13437, primal: 0.138499, dual: 0.138407, gap: 9.19998e-05
+Iteration 1465125, inner it: 24, loss: 0.171819, primal: 0.180057, dual: 0.179961, gap: 9.60976e-05
+primal: 0.133571
+loss: 0.128583
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 5.33225e-07
+Eps 0.0001
+Iteration 1230726, inner it: 20, loss: 0.112811, primal: 0.115092, dual: 0.114994, gap: 9.8452e-05
+Iteration 1289332, inner it: 21, loss: 0.122753, primal: 0.125627, dual: 0.125539, gap: 8.79019e-05
+Iteration 1406544, inner it: 23, loss: 0.0913708, primal: 0.0963162, dual: 0.0962413, gap: 7.48932e-05
+Iteration 1347938, inner it: 22, loss: 0.178098, primal: 0.181566, dual: 0.181483, gap: 8.27312e-05
+Iteration 1289332, inner it: 21, loss: 0.0996727, primal: 0.102632, dual: 0.102549, gap: 8.2694e-05
+Iteration 1406544, inner it: 23, loss: 0.0903552, primal: 0.0956445, dual: 0.0955516, gap: 9.29087e-05
+Iteration 1465150, inner it: 24, loss: 0.174262, primal: 0.183008, dual: 0.182909, gap: 9.92417e-05
+Iteration 1465150, inner it: 24, loss: 0.113135, primal: 0.119633, dual: 0.119547, gap: 8.62479e-05
+Iteration 1347938, inner it: 22, loss: 0.135127, primal: 0.139164, dual: 0.139075, gap: 8.84831e-05
+Iteration 1465150, inner it: 24, loss: 0.171885, primal: 0.179994, dual: 0.1799, gap: 9.45628e-05
+primal: 0.133868
+loss: 0.128947
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 5.33225e-07
+Eps 0.0001
+Iteration 1289332, inner it: 21, loss: 0.123235, primal: 0.126096, dual: 0.126008, gap: 8.76933e-05
+Iteration 1289332, inner it: 21, loss: 0.11286, primal: 0.11516, dual: 0.115082, gap: 7.79405e-05
+Iteration 1406544, inner it: 23, loss: 0.0903207, primal: 0.0953032, dual: 0.0952237, gap: 7.95797e-05
+Iteration 1347938, inner it: 22, loss: 0.17805, primal: 0.181531, dual: 0.181451, gap: 8.04961e-05
+Iteration 1289332, inner it: 21, loss: 0.0995228, primal: 0.102471, dual: 0.102387, gap: 8.46386e-05
+Iteration 1406544, inner it: 23, loss: 0.0902187, primal: 0.0953565, dual: 0.095261, gap: 9.55313e-05
+Iteration 1465150, inner it: 24, loss: 0.111946, primal: 0.11865, dual: 0.118567, gap: 8.25152e-05
+Iteration 1523756, inner it: 25, loss: 0.17273, primal: 0.181734, dual: 0.181659, gap: 7.5534e-05
+Iteration 1347938, inner it: 22, loss: 0.13409, primal: 0.138166, dual: 0.138075, gap: 9.08673e-05
+Iteration 1465150, inner it: 24, loss: 0.17277, primal: 0.181005, dual: 0.180913, gap: 9.23127e-05
+primal: 0.133547
+loss: 0.128574
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 5.33225e-07
+Eps 0.0001
+Iteration 1230726, inner it: 20, loss: 0.113282, primal: 0.115495, dual: 0.115398, gap: 9.71928e-05
+Iteration 1289332, inner it: 21, loss: 0.122532, primal: 0.125463, dual: 0.125378, gap: 8.50409e-05
+Iteration 1289332, inner it: 21, loss: 0.177279, primal: 0.180801, dual: 0.180701, gap: 9.97633e-05
+Iteration 1406544, inner it: 23, loss: 0.0907349, primal: 0.0957153, dual: 0.0956348, gap: 8.04514e-05
+Iteration 1289332, inner it: 21, loss: 0.0999286, primal: 0.102853, dual: 0.102771, gap: 8.15168e-05
+Iteration 1406544, inner it: 23, loss: 0.0902368, primal: 0.0954448, dual: 0.0953544, gap: 9.045e-05
+Iteration 1465150, inner it: 24, loss: 0.112311, primal: 0.118865, dual: 0.118778, gap: 8.68961e-05
+Iteration 1465150, inner it: 24, loss: 0.173057, primal: 0.18205, dual: 0.181951, gap: 9.96441e-05
+Iteration 1347938, inner it: 22, loss: 0.134216, primal: 0.138334, dual: 0.13824, gap: 9.34005e-05
+Iteration 1465150, inner it: 24, loss: 0.171768, primal: 0.179868, dual: 0.179775, gap: 9.26405e-05
+primal: 0.133489
+loss: 0.128534
+val score=0.5163466008186506
+lambda=2.666127469047326e-07
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 2.66613e-07
+Eps 0.0001
+Iteration 1816755, inner it: 30, loss: 0.110619, primal: 0.113171, dual: 0.113075, gap: 9.63658e-05
+Iteration 1875360, inner it: 31, loss: 0.120638, primal: 0.123529, dual: 0.123438, gap: 9.07928e-05
+Iteration 1933965, inner it: 32, loss: 0.175197, primal: 0.178866, dual: 0.178776, gap: 9.01669e-05
+Iteration 1992570, inner it: 33, loss: 0.0868354, primal: 0.0918394, dual: 0.091742, gap: 9.74014e-05
+Iteration 1875360, inner it: 31, loss: 0.0976351, primal: 0.100634, dual: 0.100548, gap: 8.57636e-05
+Iteration 2051175, inner it: 34, loss: 0.0866199, primal: 0.0918118, dual: 0.091718, gap: 9.37805e-05
+Iteration 2109780, inner it: 35, loss: 0.107221, primal: 0.113548, dual: 0.113452, gap: 9.53078e-05
+Iteration 2168385, inner it: 36, loss: 0.167192, primal: 0.175726, dual: 0.17563, gap: 9.59784e-05
+Iteration 1992570, inner it: 33, loss: 0.131238, primal: 0.135318, dual: 0.135232, gap: 8.58605e-05
+Iteration 2168385, inner it: 36, loss: 0.166758, primal: 0.174899, dual: 0.174811, gap: 8.83639e-05
+primal: 0.129934
+loss: 0.124995
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 2.66613e-07
+Eps 0.0001
+Iteration 1816755, inner it: 30, loss: 0.110254, primal: 0.112886, dual: 0.112791, gap: 9.51961e-05
+Iteration 1875360, inner it: 31, loss: 0.120226, primal: 0.123309, dual: 0.123216, gap: 9.24245e-05
+Iteration 2051175, inner it: 34, loss: 0.0868371, primal: 0.0919054, dual: 0.0918224, gap: 8.29622e-05
+Iteration 1933965, inner it: 32, loss: 0.174981, primal: 0.178673, dual: 0.178584, gap: 8.89599e-05
+Iteration 1875360, inner it: 31, loss: 0.0977137, primal: 0.100666, dual: 0.100575, gap: 9.07853e-05
+Iteration 2051175, inner it: 34, loss: 0.0871582, primal: 0.0922221, dual: 0.0921249, gap: 9.72152e-05
+Iteration 2109780, inner it: 35, loss: 0.107833, primal: 0.114232, dual: 0.114135, gap: 9.63733e-05
+Iteration 2168385, inner it: 36, loss: 0.167799, primal: 0.176396, dual: 0.176307, gap: 8.93623e-05
+Iteration 1992570, inner it: 33, loss: 0.131376, primal: 0.135501, dual: 0.135418, gap: 8.29995e-05
+Iteration 2168385, inner it: 36, loss: 0.16595, primal: 0.174204, dual: 0.174121, gap: 8.28654e-05
+primal: 0.129999
+loss: 0.125013
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 2.66613e-07
+Eps 0.0001
+Iteration 1816786, inner it: 30, loss: 0.110742, primal: 0.113278, dual: 0.113185, gap: 9.28417e-05
+Iteration 1875392, inner it: 31, loss: 0.120605, primal: 0.123517, dual: 0.123426, gap: 9.10982e-05
+Iteration 1992604, inner it: 33, loss: 0.0877647, primal: 0.0927886, dual: 0.0926905, gap: 9.81092e-05
+Iteration 1933998, inner it: 32, loss: 0.175299, primal: 0.178946, dual: 0.178856, gap: 8.97944e-05
+Iteration 1875392, inner it: 31, loss: 0.0974655, primal: 0.100478, dual: 0.100387, gap: 9.10312e-05
+Iteration 2051210, inner it: 34, loss: 0.0866685, primal: 0.0919001, dual: 0.0918019, gap: 9.82285e-05
+Iteration 2109816, inner it: 35, loss: 0.108879, primal: 0.115118, dual: 0.115023, gap: 9.51663e-05
+Iteration 2168422, inner it: 36, loss: 0.168482, primal: 0.17692, dual: 0.176827, gap: 9.32217e-05
+Iteration 1933998, inner it: 32, loss: 0.132227, primal: 0.136236, dual: 0.136138, gap: 9.77665e-05
+Iteration 2168422, inner it: 36, loss: 0.165989, primal: 0.174193, dual: 0.17411, gap: 8.2314e-05
+primal: 0.130337
+loss: 0.125412
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 2.66613e-07
+Eps 0.0001
+Iteration 1816786, inner it: 30, loss: 0.110872, primal: 0.113373, dual: 0.11328, gap: 9.26182e-05
+Iteration 1875392, inner it: 31, loss: 0.121109, primal: 0.124001, dual: 0.123917, gap: 8.39382e-05
+Iteration 1933998, inner it: 32, loss: 0.175254, primal: 0.178906, dual: 0.178818, gap: 8.83639e-05
+Iteration 2051210, inner it: 34, loss: 0.0867865, primal: 0.0917725, dual: 0.0916896, gap: 8.28505e-05
+Iteration 1875392, inner it: 31, loss: 0.0973175, primal: 0.100323, dual: 0.100234, gap: 8.90866e-05
+Iteration 2051210, inner it: 34, loss: 0.0866848, primal: 0.0917267, dual: 0.0916369, gap: 8.98167e-05
+Iteration 2109816, inner it: 35, loss: 0.107454, primal: 0.113965, dual: 0.113873, gap: 9.15378e-05
+Iteration 2168422, inner it: 36, loss: 0.166857, primal: 0.175514, dual: 0.175415, gap: 9.82285e-05
+Iteration 1992604, inner it: 33, loss: 0.131163, primal: 0.135209, dual: 0.135121, gap: 8.78274e-05
+Iteration 2168422, inner it: 36, loss: 0.166852, primal: 0.175145, dual: 0.175058, gap: 8.73357e-05
+primal: 0.129994
+loss: 0.125035
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58606
+*********************
+Processes Lambda 2.66613e-07
+Eps 0.0001
+Iteration 1875392, inner it: 31, loss: 0.120364, primal: 0.12332, dual: 0.123222, gap: 9.79006e-05
+Iteration 1816786, inner it: 30, loss: 0.111286, primal: 0.113742, dual: 0.113649, gap: 9.33558e-05
+Iteration 1992604, inner it: 33, loss: 0.0871825, primal: 0.0921815, dual: 0.0920839, gap: 9.7625e-05
+Iteration 1933998, inner it: 32, loss: 0.174343, primal: 0.178104, dual: 0.178017, gap: 8.71718e-05
+Iteration 1875392, inner it: 31, loss: 0.0977697, primal: 0.100731, dual: 0.10064, gap: 9.09939e-05
+Iteration 2051210, inner it: 34, loss: 0.0865671, primal: 0.091749, dual: 0.0916546, gap: 9.44436e-05
+Iteration 2109816, inner it: 35, loss: 0.107992, primal: 0.114308, dual: 0.114217, gap: 9.12994e-05
+Iteration 2168422, inner it: 36, loss: 0.167149, primal: 0.175811, dual: 0.175715, gap: 9.60529e-05
+Iteration 1992604, inner it: 33, loss: 0.131288, primal: 0.135359, dual: 0.135275, gap: 8.38488e-05
+Iteration 2109816, inner it: 35, loss: 0.165951, primal: 0.174098, dual: 0.174001, gap: 9.71109e-05
+primal: 0.12994
+loss: 0.124989
+val score=0.5318536032821747
+lambda=1.333063734523663e-07
+OMP: Info #276: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Value of R: 1
+Problem size: p x n: 4096 58605
+*********************
+Processes Lambda 1.33306e-07
+Eps 0.0001
+Iteration 2695830, inner it: 45, loss: 0.108386, primal: 0.111201, dual: 0.11111, gap: 9.15825e-05
+Iteration 2754435, inner it: 46, loss: 0.118399, primal: 0.12138, dual: 0.121287, gap: 9.36016e-05
+Iteration 2813040, inner it: 47, loss: 0.172215, primal: 0.176114, dual: 0.176017, gap: 9.72003e-05
+Iteration 2930250, inner it: 49, loss: 0.0833269, primal: 0.0883108, dual: 0.0882147, gap: 9.61423e-05
+Iteration 2754435, inner it: 46, loss: 0.0954415, primal: 0.098465, dual: 0.0983716, gap: 9.33781e-05
+Iteration 3047460, inner it: 51, loss: 0.0830975, primal: 0.0881782, dual: 0.0880899, gap: 8.8267e-05
+Iteration 3047460, inner it: 51, loss: 0.102918, primal: 0.109114, dual: 0.109015, gap: 9.9428e-05
+Iteration 3164670, inner it: 53, loss: 0.161791, primal: 0.169876, dual: 0.169778, gap: 9.7543e-05
