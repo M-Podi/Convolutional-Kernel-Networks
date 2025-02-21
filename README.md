@@ -28,7 +28,7 @@ The following datasets were utilized in our experiments:
 ## References
 1. **Grad-CAM: Visual Explanations from Deep Networks** ([arXiv:1610.02391](https://arxiv.org/abs/1610.02391))
 3. **End-to-End Kernel Learning with Supervised Convolutional Kernel Networks** ([NeurIPS Paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/fc8001f834f6a5f0561080d134d53d29-Paper.pdf))
-4. **CKN-PyTorch Reference Implementation** ([Starting Point](https://github.com/claying/CKN-Pytorch-image](https://logb-research.github.io/blog/2024/ckn/)))
+4. **CKN-PyTorch Reference Implementation** ([Starting Point]((https://logb-research.github.io/blog/2024/ckn/)))
 
 ## Contributors
 - **Matei-Alexandru Podeanu** ([contact](mailto:matei-alexandru.podeanu@s.unibuc.ro))
